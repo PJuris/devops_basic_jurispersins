@@ -1,2 +1,2 @@
-# devops_basic_jurispersins
-Devops pamati iesācējiem
+# DevOps repozitorijs
+Jura Peršina DevOps repozitorijs pamati iesācējiem
